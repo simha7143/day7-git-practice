@@ -1,1 +1,1 @@
-About: version B
+Day 7: Learning CI/CD and Docker.
